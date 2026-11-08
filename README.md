@@ -73,7 +73,6 @@ R² Score| 0.85895
 Model Accuracy: The R² score of approximately 85.90% indicates that the model explains around 85.90% of the variation in diamond prices on the test dataset.
 
 * Visualizations
-* 
 - Correlation Heatmap
 - Actual vs Predicted Diamond Price
 
@@ -105,4 +104,5 @@ jupyter notebook
 *Author
 
 Asliya CP
+
 Data Analytics Student
